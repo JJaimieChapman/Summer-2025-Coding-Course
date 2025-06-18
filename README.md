@@ -1,3 +1,3 @@
 # Summer-2025-Coding-Course
 
-Notes for DH Coding Workshpe of Summer 2025.
+Notes for DH Coding Workshop of Summer 2025.
